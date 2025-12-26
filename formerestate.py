@@ -43,7 +43,6 @@ def start_new_game():
 def load_game():
     """Load a saved game."""
     print("\nLoading game...")
-    # Load game logic will go here
     # logic to select and load a saved game
     print("Game loaded successfully!")
 
@@ -51,7 +50,6 @@ def about():
     """Display information about the game."""
     print("\nAbout Former Estate")
     print("A text-based adventure game")
-    # More about info will go here
     print("Developed by Liligirthlord 2025")
     print("Type 'help' during the game for assistance.")
     print("Enjoy your adventure!")
